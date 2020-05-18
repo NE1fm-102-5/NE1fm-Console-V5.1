@@ -1,0 +1,41 @@
+C:\Users\harry\Documents\Visual Studio 2017\Projects\LoggerManager\LoggerManager\bin\Debug\NE1fmConsole.exe.config
+C:\Users\harry\Documents\Visual Studio 2017\Projects\LoggerManager\LoggerManager\bin\Debug\NE1fmConsole.exe
+C:\Users\harry\Documents\Visual Studio 2017\Projects\LoggerManager\LoggerManager\bin\Debug\NE1fmConsole.pdb
+C:\Users\harry\Documents\Visual Studio 2017\Projects\LoggerManager\LoggerManager\bin\Debug\NE1fmConsole.xml
+C:\Users\harry\Documents\Visual Studio 2017\Projects\LoggerManager\LoggerManager\obj\Debug\NE1fmConsole.vbprojAssemblyReference.cache
+C:\Users\harry\Documents\Visual Studio 2017\Projects\LoggerManager\LoggerManager\obj\Debug\NE1fmConsole.passbox.resources
+C:\Users\harry\Documents\Visual Studio 2017\Projects\LoggerManager\LoggerManager\obj\Debug\NE1fmConsole.Form1.resources
+C:\Users\harry\Documents\Visual Studio 2017\Projects\LoggerManager\LoggerManager\obj\Debug\NE1fmConsole.Resources.resources
+C:\Users\harry\Documents\Visual Studio 2017\Projects\LoggerManager\LoggerManager\obj\Debug\NE1fmConsole.vbproj.GenerateResource.cache
+C:\Users\harry\Documents\Visual Studio 2017\Projects\LoggerManager\LoggerManager\obj\Debug\NE1fmConsole.vbproj.CoreCompileInputs.cache
+C:\Users\harry\Documents\Visual Studio 2017\Projects\LoggerManager\LoggerManager\obj\Debug\NE1fmConsole.exe
+C:\Users\harry\Documents\Visual Studio 2017\Projects\LoggerManager\LoggerManager\obj\Debug\NE1fmConsole.xml
+C:\Users\harry\Documents\Visual Studio 2017\Projects\LoggerManager\LoggerManager\obj\Debug\NE1fmConsole.pdb
+C:\Users\harry\Documents\Visual Studio 2017\Projects\NE1fmConsole\NE1fmConsole\bin\Debug\NE1fmConsole.exe.config
+C:\Users\harry\Documents\Visual Studio 2017\Projects\NE1fmConsole\NE1fmConsole\bin\Debug\NE1fmConsole.exe
+C:\Users\harry\Documents\Visual Studio 2017\Projects\NE1fmConsole\NE1fmConsole\bin\Debug\NE1fmConsole.pdb
+C:\Users\harry\Documents\Visual Studio 2017\Projects\NE1fmConsole\NE1fmConsole\bin\Debug\NE1fmConsole.xml
+C:\Users\harry\Documents\Visual Studio 2017\Projects\NE1fmConsole\NE1fmConsole\obj\Debug\NE1fmConsole.vbprojAssemblyReference.cache
+C:\Users\harry\Documents\Visual Studio 2017\Projects\NE1fmConsole\NE1fmConsole\obj\Debug\NE1fmConsole.passbox.resources
+C:\Users\harry\Documents\Visual Studio 2017\Projects\NE1fmConsole\NE1fmConsole\obj\Debug\NE1fmConsole.Form1.resources
+C:\Users\harry\Documents\Visual Studio 2017\Projects\NE1fmConsole\NE1fmConsole\obj\Debug\NE1fmConsole.Resources.resources
+C:\Users\harry\Documents\Visual Studio 2017\Projects\NE1fmConsole\NE1fmConsole\obj\Debug\NE1fmConsole.vbproj.GenerateResource.cache
+C:\Users\harry\Documents\Visual Studio 2017\Projects\NE1fmConsole\NE1fmConsole\obj\Debug\NE1fmConsole.vbproj.CoreCompileInputs.cache
+C:\Users\harry\Documents\Visual Studio 2017\Projects\NE1fmConsole\NE1fmConsole\obj\Debug\NE1fmConsole.exe
+C:\Users\harry\Documents\Visual Studio 2017\Projects\NE1fmConsole\NE1fmConsole\obj\Debug\NE1fmConsole.xml
+C:\Users\harry\Documents\Visual Studio 2017\Projects\NE1fmConsole\NE1fmConsole\obj\Debug\NE1fmConsole.pdb
+C:\Users\harry\Documents\Visual Studio 2017\Projects\NE1fmConsole\NE1fmConsole\obj\Debug\NE1fmConsole.RemoteAccess.resources
+C:\Users\Harry\Documents\Visual Studio 2017\Projects\Old Projects\NE1fmConsole\NE1fmConsole\bin\Debug\NE1fmConsole.exe.config
+C:\Users\Harry\Documents\Visual Studio 2017\Projects\Old Projects\NE1fmConsole\NE1fmConsole\bin\Debug\NE1fmConsole.exe
+C:\Users\Harry\Documents\Visual Studio 2017\Projects\Old Projects\NE1fmConsole\NE1fmConsole\bin\Debug\NE1fmConsole.pdb
+C:\Users\Harry\Documents\Visual Studio 2017\Projects\Old Projects\NE1fmConsole\NE1fmConsole\bin\Debug\NE1fmConsole.xml
+C:\Users\Harry\Documents\Visual Studio 2017\Projects\Old Projects\NE1fmConsole\NE1fmConsole\obj\Debug\NE1fmConsole.vbprojAssemblyReference.cache
+C:\Users\Harry\Documents\Visual Studio 2017\Projects\Old Projects\NE1fmConsole\NE1fmConsole\obj\Debug\NE1fmConsole.passbox.resources
+C:\Users\Harry\Documents\Visual Studio 2017\Projects\Old Projects\NE1fmConsole\NE1fmConsole\obj\Debug\NE1fmConsole.Form1.resources
+C:\Users\Harry\Documents\Visual Studio 2017\Projects\Old Projects\NE1fmConsole\NE1fmConsole\obj\Debug\NE1fmConsole.Resources.resources
+C:\Users\Harry\Documents\Visual Studio 2017\Projects\Old Projects\NE1fmConsole\NE1fmConsole\obj\Debug\NE1fmConsole.RemoteAccess.resources
+C:\Users\Harry\Documents\Visual Studio 2017\Projects\Old Projects\NE1fmConsole\NE1fmConsole\obj\Debug\NE1fmConsole.vbproj.GenerateResource.cache
+C:\Users\Harry\Documents\Visual Studio 2017\Projects\Old Projects\NE1fmConsole\NE1fmConsole\obj\Debug\NE1fmConsole.vbproj.CoreCompileInputs.cache
+C:\Users\Harry\Documents\Visual Studio 2017\Projects\Old Projects\NE1fmConsole\NE1fmConsole\obj\Debug\NE1fmConsole.exe
+C:\Users\Harry\Documents\Visual Studio 2017\Projects\Old Projects\NE1fmConsole\NE1fmConsole\obj\Debug\NE1fmConsole.xml
+C:\Users\Harry\Documents\Visual Studio 2017\Projects\Old Projects\NE1fmConsole\NE1fmConsole\obj\Debug\NE1fmConsole.pdb
